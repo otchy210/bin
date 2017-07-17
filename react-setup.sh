@@ -110,35 +110,3 @@ msg "ハッピーハッキング！"
 
 exit
 
-== what will be instealled? ==
-
-git
-nodenv
-node (under nodenv)
-create-react-app
-
-
-== special thanks ==
-
-checkcmd
-http://qiita.com/kawaz/items/1b61ee2dd4d1acc7cc94
-
-#parse bash options
-#http://qiita.com/b4b4r07/items/dcd6be0bb9c9185475bb
-
-colored echo
-http://qiita.com/k_ui/items/9a194634af9f522bfad6
-
-noeenv
-http://qiita.com/1000ch/items/41ea7caffe8c42c5211c
-
-create-react-app ?
-http://qiita.com/chibicode/items/8533dd72f1ebaeb4b614
-
-#https://hackernoon.com/simple-react-development-in-2017-113bd563691f
-
-#webpack
-#http://qiita.com/nosoosso/items/a9ef0b26ccff47133870
-
-#react-redux starter ?
-#http://qiita.com/ossan-engineer/items/25babf2025bfe1968b9b
